@@ -5,6 +5,8 @@
 <br/>
 
 <p align="left"> <a href="https://twitter.com/mrrobot1o1" target="__blank"><img src="https://img.shields.io/twitter/follow/mrrobot1o1?logo=twitter&style=for-the-badge" alt="mrrobot1o1" /></a> </p>
+ 
+![](https://visitor-badge.glitch.me/badge?page_id=mrrobot1o1)
 
 - 🌱 I’m currently Learning about **filter evasion  techniques**
 
