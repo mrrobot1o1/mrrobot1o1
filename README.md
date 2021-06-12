@@ -29,8 +29,6 @@
 <a href="https://www.tutorialspoint.com/unix/index.htm" target="__blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" alt="bash scriprting" width="40" height="40"/>
 <!--Ubuntu -->
 </a><a href="https://ubuntu.com/" target="__blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="40" height="40"/> </a>
-<!--html -->
-<a href="https://www.w3schools.com/html/" target="__blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html" width="40" height="40"/> </a>
 <!--Metasploit -->
 <a href="https://www.metasploit.com/" target="__blank"> <img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2_400x400.png" alt="Metasploite" width="40" height="40"/> </a>
 <!--Burp Suite -->
