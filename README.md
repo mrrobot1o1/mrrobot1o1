@@ -34,3 +34,5 @@
 <!--Burp Suite -->
 <a href="https://portswigger.net/" target="__blank"> <img src="https://user-images.githubusercontent.com/17954762/47567241-4b4f2080-d92e-11e8-830c-b5db21beab69.png" alt="Burp Suite" width="40" height="40"/> </a>
  </p>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mrrobot1o1" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/mrrobot1o1?trk=profile-badge">Vikas Yadav</a></div>
+              
