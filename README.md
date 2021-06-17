@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://twitter.com/mrrobot1o1" alt="mrrobot1o1">mrrobot1o1</h1>
-<h3 align="center">A Cyber Security Learner..</h3>
+<h3 align="center">CYBER SECURITY ENTHUSIAST, BUG HUNTER.</h3>
 
 <br/>
 <br/>
